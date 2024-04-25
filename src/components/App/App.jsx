@@ -1,7 +1,28 @@
 import React from 'react';
-
-import Header from '../Header/Header.jsx'
+import { useEffect, useState } from 'react';
+import Header from '../Header/Header.jsx';
 import './App.css';
+
+// USE state:
+
+
+
+
+// useEffect(() => {
+    
+// },[])
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 function App() {
