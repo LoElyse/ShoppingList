@@ -7,3 +7,22 @@ body {
   width: 90%;
   margin: auto;
 }
+
+.listContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 20px 0;
+}
+
+.item {
+  border: 5px solid rebeccapurple;
+  border-radius: 40px;
+  padding: 20px;
+  min-width: 160px;
+}
+
+/* .butt {
+  display: ;
+  text-align: center;
+} */
